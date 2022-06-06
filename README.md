@@ -1,2 +1,2 @@
-# PersonalProjects
-Repository with my Personal Projects
+# University
+Repository with uni's assignmeents
